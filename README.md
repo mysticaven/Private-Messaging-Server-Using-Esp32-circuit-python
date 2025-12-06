@@ -214,6 +214,10 @@ Just a $10 ESP32 chip doing all the heavy lifting! 🎉
 - **JavaScript**: ~30 lines (refresh logic)
 
 
+Images:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/70a4dba1-6bd2-4d7a-ab5d-4d256a9afd58" />
+<img width="1425" height="833" alt="image" src="https://github.com/user-attachments/assets/4574bb8b-b916-46ab-b289-f8a897c7efe9" />
+
 
 ---
 
